@@ -1,0 +1,35 @@
+#container {
+    border: 5px green solid;
+    background-color: white;
+}
+
+.content img {
+    float: right;
+}
+
+#header {
+    border: 5px red solid;
+    text-align: right;
+}
+
+#header h2 {
+    border: 5px yellow solid;
+}
+
+.content {
+    border: 5px blue solid;
+    padding: 5px;
+    background-color: #E8FBFB;
+    margin-top: 10px;
+}
+
+.dates {
+    border: 5px purple solid;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}

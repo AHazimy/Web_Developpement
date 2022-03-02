@@ -1,0 +1,51 @@
+#container {
+    border: 10px white solid;
+    background-color: white;
+}
+
+*:hover {
+    background-color: yellow;
+}
+
+.content img {
+    float: right;
+}
+
+#header {
+    text-align: right;
+    background-color: #A8F0F0;
+}
+
+#header h2 {
+    font-size: 14pt;
+    background-color: yellow;
+}
+
+.content {
+    border: 4px #C2E9E9 solid;
+    padding: 5px;
+    background-color: #E8FBFB;
+    margin-top: 10px;
+}
+
+.dates {
+    border-bottom-style: dashed;
+    border-bottom-width: 2px;
+}
+
+#nav {
+    background-color: tomato;
+    float: left;
+    border: 5px yellow solid;
+}
+
+#contents {
+    margin-left: 150px;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url("bg.png");
+    background-repeat: repeat;
+}
